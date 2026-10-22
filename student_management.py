@@ -27,7 +27,7 @@ while True:
     print("1. Add Student")
     print("2. View All Student")
     print("3. Search Student by Roll No")
-    print("3. Exit")
+    print("4. Exit")
 
     choice = input("Enter your choice (1-4): ")
     if choice == "1":
